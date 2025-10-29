@@ -39,9 +39,9 @@ When the user clicks anywhere on the image window:
 ```
 color-recognition/
 │
-├── color_recognition.py      # Main Python script
+├── color_detection.py      # Main Python script
 ├── colors.csv                # Dataset containing color names and RGB values
-├── sample_image.jpg          # Example input image
+├── colorpic.jpg          # Example input image
 └── README.md                 # Project documentation
 ```
 
