@@ -48,12 +48,12 @@ color-recognition/
    cd Python-Projects/color-recognition
 
 2.Install dependencies
-```bash
-pip install opencv-python pandas numpy
+   ```bash
+   pip install opencv-python pandas numpy
 
 3.Run the program
-```bash
-python color_detection.py
+   ```bash
+   python color_detection.py
 
 Click on the image window
 The color name and RGB values will appear instantly.
