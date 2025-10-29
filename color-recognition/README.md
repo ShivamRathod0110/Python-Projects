@@ -62,7 +62,7 @@ color-recognition/
 
 3. **Run the program**
    ```bash
-   python color_recognition.py
+   python color_detection.py
    ```
 
 4. **Click on the image window**  
