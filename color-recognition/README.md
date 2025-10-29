@@ -1,11 +1,11 @@
-# 🎨 Color Recognition using Python
+# Color Recognition using Python
 
 This project identifies the **name of a color** in an image when a user clicks on it.  
 It uses **OpenCV** and **Pandas** to read the image, capture mouse events, and map RGB values to color names.
 
 ---
 
-## 🧠 Overview
+## Overview
 
 The goal of this project is to detect and display the closest color name from a predefined dataset based on the pixel’s RGB value.
 
@@ -16,7 +16,7 @@ When the user clicks anywhere on the image window:
 
 ---
 
-## ⚙️ Features
+## Features
 
 - Detects and displays color name on mouse click  
 - Shows RGB values in real-time  
@@ -25,7 +25,7 @@ When the user clicks anywhere on the image window:
 
 ---
 
-## 🧩 Technologies Used
+## Technologies Used
 
 - **Python 3**  
 - **OpenCV** – for image display and interaction  
@@ -34,7 +34,7 @@ When the user clicks anywhere on the image window:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 color-recognition/
@@ -47,7 +47,7 @@ color-recognition/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. **Clone this repository**
    ```bash
@@ -70,7 +70,7 @@ color-recognition/
 
 ---
 
-## 📸 Example Output
+## Example Output
 
 When you click on any region of the image, you’ll see something like this:
 
@@ -80,7 +80,7 @@ Color: Sky Blue | RGB(135, 206, 235)
 
 ---
 
-## 💡 Applications
+## Applications
 
 - Image and video color detection  
 - Color sampling tools for design and development  
